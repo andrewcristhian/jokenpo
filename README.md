@@ -1,1 +1,1 @@
-![image](https://github.com/andrewcristhian/jokenpo/assets/96155931/cf81a6f9-a143-469c-8295-0dc6779cad15)
+![image](https://github.com/andrewcristhian/jokenpo/assets/96155931/1333e789-e5a9-4a95-b69b-40d91dde108c)
