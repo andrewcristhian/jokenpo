@@ -33,7 +33,7 @@ print('-=' * 14)
 
 #Mostrando o que cada um jogou
 print('Computador jogou: {}'.format(itens[computador]))
-print('Jogador jogou: {}' .format(itens[jogador]))
+print('Você jogou: {}' .format(itens[jogador]))
 print('-=' * 14)
 
 #Montar as estruturas condicionais para vitória de um dos lados ou empate
